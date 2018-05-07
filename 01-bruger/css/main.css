@@ -51,11 +51,26 @@ nav ul li {
     display: block;
 }
 
+ul {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+li {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
 h1 {
     font-family: 'Barlow Condensed', sans-serif;
 }
 
 h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+h3 {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+p {
     font-family: 'Barlow Condensed', sans-serif;
 }
 
